@@ -6,7 +6,7 @@ require (
 	github.com/charmbracelet/log v0.2.1
 	github.com/charmbracelet/ssh v0.0.0-20221117183211-483d43d97103
 	github.com/charmbracelet/wish v1.1.1
-	golang.org/x/crypto v0.8.0
+	golang.org/x/crypto v0.17.0
 )
 
 require (
@@ -22,5 +22,5 @@ require (
 	github.com/muesli/reflow v0.3.0 // indirect
 	github.com/muesli/termenv v0.15.1 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
-	golang.org/x/sys v0.7.0 // indirect
+	golang.org/x/sys v0.15.0 // indirect
 )
